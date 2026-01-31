@@ -11,7 +11,6 @@ The system classifies images into one of the CIFAR-10 object categories.
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Machine Learning & Deep Learning
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)](https://www.tensorflow.org/)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=flat-square)](https://scikit-learn.org/)
